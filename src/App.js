@@ -1,7 +1,9 @@
+import Test from "./Test";
+
 function App() {
   return (
     <div>
-      Hello world
+      <Test />
     </div>
   );
 }
